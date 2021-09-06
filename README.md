@@ -1,1 +1,1 @@
-# Fullstack Storage API
+# Fullstack Storage Service
