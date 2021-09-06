@@ -2,6 +2,10 @@
 
 ## Features Checklist
 
+### Config
+-[x] local ssl certificate
+
+
 ### API
 - [ ] Downloaded itens list
 - [ ] File stream and storage
