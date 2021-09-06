@@ -3,7 +3,7 @@
 ## Features Checklist
 
 ### Config
-- [x] Local ssl certificate
+- [x] Local ssl certificate (expiry Dec. 2023)
 
 
 ### API
