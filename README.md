@@ -3,7 +3,7 @@
 ## Features Checklist
 
 ### Config
--[x] local ssl certificate
+- [x] local ssl certificate
 
 
 ### API
