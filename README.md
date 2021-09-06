@@ -3,7 +3,7 @@
 Features Checklist
 
     API
-        - [] Downloaded itens list
+        - [ ] Downloaded itens list
         - [] File stream and storage
         - [] Storage progress notification
         - [] IMG, video and audio upload
